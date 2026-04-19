@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **AI Orchestration**: [LangChain](https://langchain.com)
 - **Large Language Model**: [Groq](https://groq.com) (Llama-3.3-70b-versatile)
