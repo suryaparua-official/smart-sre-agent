@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Secrets & Local Config
+.env
+config.yaml
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
